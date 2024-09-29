@@ -292,4 +292,5 @@ var sketch = "3,000";
 var numSharp = Number(sharp);
 var numSketch = Number(sketch);
 
-var total = numSharp + numSketch;
+var total = (numSharp += numSketch);
+document.write();
