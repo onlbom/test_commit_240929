@@ -10,6 +10,7 @@
 // 변수명 = 단일 데이터(문자형, 숫자형, 논리형, undefined, null)
 // 변수명 = {key1: value1, key2: value2, ...}
 // 갤럭시26 = {price: "2,000,000원", screenSize: "7inches", caseColor: "purple", memory: "256GB", ...}
+// 테스트 깃
 
 document.write(`<h2>객체</h2>`);
 var myPhone = {
